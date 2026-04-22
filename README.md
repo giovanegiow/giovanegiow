@@ -1,16 +1,20 @@
-## Hi there 👋
+# Olá, eu sou o Giovane 👋
 
-<!--
-**giovanegiow/giovanegiow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor focado em C# .NET, JavaScript e SQL.
 
-Here are some ideas to get you started:
+🚀 Atualmente trabalhando com:
+- JavaScript (ERP)
+- APIs em C# (.NET)
+- SQL Server
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Estudando:
+- ASP.NET Core
+- Clean Architecture
+- Docker
+
+📌 Projetos em destaque:
+- https://github.com/giovanegiow/PDF_Interativo_JS.git
+- https://github.com/giovanegiow/Gerador_de_Pedidos.git
+
+📫 Contato:
+- LinkedIn: https://www.linkedin.com/in/giovane-nascimento-65b021272?utm_source=share_via&utm_content=profile&utm_medium=member_ios
